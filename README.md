@@ -27,7 +27,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: client-side routing makes it easier to view new webpages from other links
+client side routing can catch errors more efficiently. 
 
 ## Project Set Up
 
